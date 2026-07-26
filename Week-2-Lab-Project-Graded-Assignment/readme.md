@@ -1,7 +1,4 @@
-#preview
-
-
-
+#### Preview pages
 1. Index page
 <img width="1105" height="592" alt="image" src="https://github.com/user-attachments/assets/94f03907-5270-4350-a06a-fe91cba37d86" />
 
