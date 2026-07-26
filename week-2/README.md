@@ -9,5 +9,9 @@
 3. Education page
 <img width="800" height="407" alt="image" src="https://github.com/user-attachments/assets/6fb60d08-b572-432e-b6d6-ef248e0bc4aa" />
 
-4. 
-5. 
+4. Achievement page
+<img width="1155" height="522" alt="image" src="https://github.com/user-attachments/assets/c84f3206-afee-4c44-80fe-a7ab5d68ba65" />
+   
+5. Influence page
+   <img width="1202" height="575" alt="image" src="https://github.com/user-attachments/assets/bbaeb440-b878-4332-bbe4-3e993ecd792c" />
+
